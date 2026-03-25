@@ -1,3 +1,5 @@
+#Kaipo Ojas
+
 import random
 #cd folderName then python fileName.py to run
 
