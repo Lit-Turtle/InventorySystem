@@ -1,3 +1,5 @@
+#Kaipo Ojas
+
 from main import MasterClass, Category, Product
 import os
 import time
