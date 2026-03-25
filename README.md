@@ -1,5 +1,5 @@
 # InventorySystem
-Python practice project.
+Python practice project by Kaipo Ojas.
 
 Allows user to track inventory with category and products. Track the profit and revenue, while also having a local json save file to login to inventory.
 Can also generate a sales report on top products and categories.
